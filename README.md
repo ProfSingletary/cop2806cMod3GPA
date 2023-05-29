@@ -1,1 +1,3 @@
-# cop2806cMod3GPA
+# COP2806C Module 3 Programming Assignment
+
+## Summer 2023
